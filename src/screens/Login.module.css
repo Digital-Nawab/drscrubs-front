@@ -1,0 +1,58 @@
+.btn-login {
+    width: 150px;
+    background-color: #F86F03!important;
+    border: none;
+    outline: none;
+    height: 49px;
+    border-radius: 4px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .btn-login:hover {
+    background-color: #f98c39;
+  }
+
+  .forget-section{padding: 50px 0px;}
+
+  .btn, .btn-primary {
+    font-family: Poppins, sans-serif;
+    background-color: #2f415d;
+    color: #fff;
+    border: 1px solid #2f415d;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 0;
+    padding: 10px 20px;
+    font-size: 14px;
+    line-height: normal;
+    white-space: normal;
+    opacity: 1;
+    outline: 0 !important;
+    box-shadow: none!important;
+    -ms-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.form-control, input{
+  width: 100%;
+  font-size: 14px;
+  font-family: Poppins, sans-serif;
+  color: #171717;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  transition: .4s ease-out;
+  -webkit-transition: .4s ease-out;
+  outline: 0 !important;
+  box-shadow: none!important;
+  padding: 10px 15px;
+}

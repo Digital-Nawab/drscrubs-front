@@ -1,0 +1,54 @@
+.cart-section{
+    position: relative;
+    padding: 50px 0;
+}
+.avatar-md-cart {
+    width:110px;
+    border: 1px solid #9093a1;
+    border-radius: 10px;
+}
+.input-step {
+    border: 1px solid #e9ebec;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    overflow: visible;
+    height: 37.5px;
+    border-radius: 0.25rem;
+    background: #fff;
+    padding: 4px;
+}
+.input-step button {
+    width: 1.4em;
+    font-weight: 300;
+    height: 100%;
+    line-height: .1em;
+    font-size: 1.4em;
+    padding: 0.2em !important;
+    background: #f3f6f9;
+    color: #878a99;
+    border: none;
+    border-radius: 0.25rem;
+}
+.input-step input {
+    width: 4em;
+    height: 100%;
+    text-align: center;
+    border: 0;
+    background: 0 0;
+    color: #0c192c;
+    border-radius: 0.25rem;
+}
+button{border:none;}
+.cart-section .card .card-body p {
+    line-height: 0px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.cart-section .total-btn-tr{font-size: 20px;
+    color: #2f415d!important;
+    font-weight: bold;
+}
+.cart-section tr:nth-child(even) {
+    background: #ffffff;
+}

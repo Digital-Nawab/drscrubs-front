@@ -1,0 +1,30 @@
+.container {
+    max-width: 1200px;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.privacy-text h2 {
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.privacy-text p {
+    font-size: 5px;
+    font-weight: 300;
+    color: black;
+    text-align: justify;
+}
+
+p{
+    margin-top: 0;
+}

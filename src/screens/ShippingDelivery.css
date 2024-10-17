@@ -1,0 +1,12 @@
+.shipping-policy ul li{
+    list-style: none;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.shipping-policy ul li:before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f058";
+    color: #3b3b3b;
+    font-size: 16px;
+}
